@@ -1,7 +1,7 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://nick.thecodehouse.net
 
 languageCode: bn
-title: "John's Blog"
+title: "Nick's Blog"
 
 # Use Hugo modules to add theme
 module:
@@ -19,17 +19,17 @@ module:
 
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
-languages:
-  en:
-    languageCode: en
-    languageName: English
-    title: "John's Blog"
-    weight: 1
-  bn:
-    languageCode: bn
-    languageName: বাংলা
-    title: জনের ব্লগ
-    weight: 2
+#languages:
+#  en:
+#    languageCode: en
+#    languageName: English
+#    title: "Nick's Blog"
+#    weight: 1
+#  bn:
+#    languageCode: bn
+#    languageName: বাংলা
+#    title: জনের ব্লগ
+#    weight: 2
 # default language for the content
 defaultContentLanguage: en
 
@@ -68,7 +68,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/quanltsimple/hugo-toha.github.io
   # Default branch of your Git repo
   gitBranch: main
 
@@ -148,7 +148,7 @@ params:
       services:
         # Google Analytics
         google:
-          id: G-H4LBG7NDFZ
+          id: G-B18EGLCJ97
         # # CounterDev
         # counterDev:
         #   id: <your counterdev id>
